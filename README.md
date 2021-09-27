@@ -4,6 +4,4 @@
 
 ## Datasets:
 
-- post-operative.data
-
-Determining where a patient should be sent after surgery (I, S, A) based on various body tempurature measurements
+- post-operative.data: Determining where a patient should be sent after surgery (I, S, A) based on various body tempurature measurements
